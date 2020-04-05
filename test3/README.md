@@ -46,7 +46,7 @@ book : 作者:String
 @enduml
 ```
 ### 1.2类图如下:
-![](2.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405205325633.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
 ### 1.3类图说明:
 （1）管理员类：类名：管理员<<子类>> 属性名：1.1、private： ID<<阅读者证件号>> 1.2、方法：未定。<br/>
 （2）读者类：类名：读者<<子类>>；属性名：1.1private：ID<<阅读者证件号>> 1.2、方法：未定<br/>
@@ -66,7 +66,7 @@ ID = 123456
 @enduml
 ```
 ### 对象图如下:
-![](7b80aa69.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405205412559.png)
 ### 2.2类读者的对象图:
 #### 源码如下:
 ```
@@ -77,7 +77,7 @@ ID = 234567
 @enduml
 ```
 #### 对象图如下:
-![](3f455f3d.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405205503588.png)
 ### 2.3类book的对象图如下:
 #### 源码如下:
 ```
@@ -92,4 +92,4 @@ object book{
 @enduml
 ```
 #### 对象图如下:
-![](9cdd3e91.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200405205523611.png)
