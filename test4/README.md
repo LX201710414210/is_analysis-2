@@ -60,7 +60,7 @@ destroy 管理员
 @enduml
 ```
 ### 2.2还书用例顺序图
-![](test4/2.png)
+![class](2.png)
 ### 2.3. 还书用例顺序图说明
 ```angular2
 1、login（）：读者将书籍交给管理员，管理员登录系统。
@@ -88,7 +88,7 @@ Reservation-->图书管理系统
 @enduml
 ```
 ### 3.2预约用例顺序图
-![](test4/3.png)
+![class](3.png)
 ### 3.3. 预约用例顺序图说明
 ```angular2
 1、login（）：登录系统。
