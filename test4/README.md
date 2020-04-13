@@ -23,7 +23,7 @@ login-->借书系统:2:isBorrow()
 @enduml
 ```
 ### 1.2借书用例顺序图
-![](.README_images/1.png)
+![](/1.png)
 ### 1.3. 借书用例顺序图说明
 ```angular2
 1、login（）：读者将需借书目交给管理员，管理员登陆系统。
@@ -60,7 +60,7 @@ destroy 管理员
 @enduml
 ```
 ### 2.2还书用例顺序图
-![](.README_images/2.png)
+![](/2.png)
 ### 2.3. 还书用例顺序图说明
 ```angular2
 1、login（）：读者将书籍交给管理员，管理员登录系统。
@@ -88,7 +88,7 @@ Reservation-->图书管理系统
 @enduml
 ```
 ### 3.2预约用例顺序图
-![](.README_images/3.png)
+![](/3.png)
 ### 3.3. 预约用例顺序图说明
 ```angular2
 1、login（）：登录系统。
