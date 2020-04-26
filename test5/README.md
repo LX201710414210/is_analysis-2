@@ -225,7 +225,7 @@
 
 ## 2.界面设计
 ### 2.1登陆界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/index.html))
-![](.README_images/1.png)
+![class](1.png)
 - 用例图参见：登录用例
 - 类图参见：管理员类，读者类
 - 顺序图参见：所有图的login()
@@ -279,7 +279,7 @@
 </table>
 
 ### 2.2主界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/主界面.html))
-![](.README_images/2.png)
+![class](2.png)
 
 - 类图参见：管理员类，读者类
 - 顺序图参见：所有图
@@ -344,7 +344,7 @@
 </table>
 
 ### 2.3借阅界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/借阅页面.html))
-![](.README_images/3.png)
+![class](3.png)
 - 类图参见：管理员类，读者类
 - 顺序图参见：书籍借阅图
 - API接口如下：
@@ -429,7 +429,7 @@
 </table>
 
 ### 2.4预约界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/预约页面.html))
-![](.README_images/4.png)
+![class](4.png)
 - 类图参见：管理员类，读者类
 - 顺序图参见：书籍预约图
 - API接口如下：
@@ -513,7 +513,7 @@
 </table>
 
 ### 2.5还书界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/还书页面.html))
-![](.README_images/5.png)
+![class](5.png)
 
 - 类图参见：管理员类，读者类
 - 顺序图参见：书籍还书图
@@ -587,7 +587,7 @@
 </table>
 
 ### 2.6逾期处理界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/逾期处理页面.html))
-![](.README_images/6.png)
+![class](6.png)
 - API接口如下：
 
 1.逾期处理
@@ -668,7 +668,7 @@
 </table>
 
 ### 2.7修改个人信息界面设计([链接](https://201710414222.github.io/is_analysis_pages/ui/修改信息页面.html))
-![](.README_images/7.png)
+![class](7.png)
 - 类图参见：管理员类，读者类
 
 - API接口如下：
