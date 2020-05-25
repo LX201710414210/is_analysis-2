@@ -6,7 +6,7 @@
 - 老师和学生都能通过本系统的链接方便地跳转到学生的每个GitHUB实验目录，以便批改实验或者查看实验情况。
 - 实验成绩按数字分数计算，每项实验的满分为100分，最低为0分。
 - 系统自动计算每个学生的所有实验的平均分。
-## 2.系统总体架构：
+## 2.系统总体流程图：
 ![](.README_images/1.png)
 界面设计参见：https://201710414222.github.io/is_analysis_pages/ui1/index.html
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525180536673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
