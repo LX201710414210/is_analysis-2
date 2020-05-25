@@ -11,9 +11,9 @@
 界面设计参见：https://201710414222.github.io/is_analysis_pages/ui1/index.html
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525180536673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
 ## 3.用例图设计：([源码](源码/1.puml))
-![](.README_images/2.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525180536784.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
 ## 4.类图设计：([源码](源码/2.puml))
-![](.README_images/3.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525180537117.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
 ## 5.数据库设计：
 [参见数据库设计](数据库设计.md)
 ## 6.用例及界面详细设计
@@ -23,7 +23,7 @@
 
 - ["查看课程成绩”用例](用例/查看成绩.md),[界面](https://201710414222.github.io/is_analysis_pages/ui1/第一学期软分成绩.html)
 
-- ["选择课程”用例](用例/选择课程.md),[界面](https://201710414222.github.io/is_analysis_pages/ui1/选择页面.html)
+- ["选择课程和学期”用例](用例/选择课程.md),[界面](https://201710414222.github.io/is_analysis_pages/ui1/选择页面.html)
 
 - ["修改用户信息”用例](用例/修改用户信息用例.md),[界面](https://201710414222.github.io/is_analysis_pages/ui1/修改用户信息.html)
 
