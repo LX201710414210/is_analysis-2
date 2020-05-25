@@ -9,6 +9,7 @@
 ## 2.系统总体架构：
 ![](.README_images/1.png)
 界面设计参见：https://201710414222.github.io/is_analysis_pages/ui1/index.html
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525180536673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3hpb25nZGF5YQ==,size_16,color_FFFFFF,t_70)
 ## 3.用例图设计：([源码](源码/1.puml))
 ![](.README_images/2.png)
 ## 4.类图设计：([源码](源码/2.puml))
