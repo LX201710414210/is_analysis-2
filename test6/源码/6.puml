@@ -1,0 +1,11 @@
+@startuml
+title 基于GitHub的实验管理平台--选择课程
+actor students
+actor teacher
+
+teacher->term:老师选择学期
+term ->course:老师选择课程
+
+students -> course: 学生选择课程（学生选择课程必须在老师选课之后）
+
+@enduml
